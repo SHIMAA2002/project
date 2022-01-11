@@ -142,7 +142,7 @@ class TestPharmacy{
       medicine.add(100,"yyy");
       medicine.add(6,"fff");
       medicine.add(3,"lll");
-      medicine.add(4,"sss");
+      medicine.add(4,"gg");
       
       medicine.delete(55);
       
